@@ -13,7 +13,7 @@ This application can be used to build out vehicles and save them. There are only
 - [Questions](#questions)
 
 ## Installation
-Download the "Vehicle-Builder" folder and open the folder the terminal at the the root level. 
+Download the "Vehicle-Builder" folder and open the folder in the terminal at the the root level. 
 
 ## Usage
 In the terminal opened at the root level, input "npm start" to start the program. Once the program begins, use the arrow keys to navigate and the enter key to select options. For a test run, go ahead and select the existing vehicles and run through the built in truck, car, and motorbike. Once ready, return to the main menu and build your own vehicle. You will be prompted with vehicle characteristics such as color, make, model, year, etc. Fill out each category and hit enter once complete.
